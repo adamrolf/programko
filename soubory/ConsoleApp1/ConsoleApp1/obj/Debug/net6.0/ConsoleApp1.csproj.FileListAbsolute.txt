@@ -1,0 +1,16 @@
+U:\programko\soubory\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+U:\programko\soubory\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\pokedex.txt
+U:\programko\soubory\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+U:\programko\soubory\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+U:\programko\soubory\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+U:\programko\soubory\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+U:\programko\soubory\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+U:\programko\soubory\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+U:\programko\soubory\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+U:\programko\soubory\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+U:\programko\soubory\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+U:\programko\soubory\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+U:\programko\soubory\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+U:\programko\soubory\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+U:\programko\soubory\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+U:\programko\soubory\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\npokedex.txt
