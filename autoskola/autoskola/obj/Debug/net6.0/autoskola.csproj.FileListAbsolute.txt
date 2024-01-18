@@ -1,0 +1,15 @@
+C:\Users\rolfe\Documents\programko\autoskola\autoskola\bin\Debug\net6.0\autoskola.exe
+C:\Users\rolfe\Documents\programko\autoskola\autoskola\bin\Debug\net6.0\questions.data
+C:\Users\rolfe\Documents\programko\autoskola\autoskola\bin\Debug\net6.0\autoskola.deps.json
+C:\Users\rolfe\Documents\programko\autoskola\autoskola\bin\Debug\net6.0\autoskola.runtimeconfig.json
+C:\Users\rolfe\Documents\programko\autoskola\autoskola\bin\Debug\net6.0\autoskola.dll
+C:\Users\rolfe\Documents\programko\autoskola\autoskola\bin\Debug\net6.0\autoskola.pdb
+C:\Users\rolfe\Documents\programko\autoskola\autoskola\obj\Debug\net6.0\autoskola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolfe\Documents\programko\autoskola\autoskola\obj\Debug\net6.0\autoskola.AssemblyInfoInputs.cache
+C:\Users\rolfe\Documents\programko\autoskola\autoskola\obj\Debug\net6.0\autoskola.AssemblyInfo.cs
+C:\Users\rolfe\Documents\programko\autoskola\autoskola\obj\Debug\net6.0\autoskola.csproj.CoreCompileInputs.cache
+C:\Users\rolfe\Documents\programko\autoskola\autoskola\obj\Debug\net6.0\autoskola.dll
+C:\Users\rolfe\Documents\programko\autoskola\autoskola\obj\Debug\net6.0\refint\autoskola.dll
+C:\Users\rolfe\Documents\programko\autoskola\autoskola\obj\Debug\net6.0\autoskola.pdb
+C:\Users\rolfe\Documents\programko\autoskola\autoskola\obj\Debug\net6.0\autoskola.genruntimeconfig.cache
+C:\Users\rolfe\Documents\programko\autoskola\autoskola\obj\Debug\net6.0\ref\autoskola.dll
